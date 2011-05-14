@@ -5,7 +5,7 @@ Release:	1
 License:	GPL v3
 Group:		X11/Applications/Graphics
 Source0:	http://dl.sourceforge.net/scantailor/%{name}-%{version}.tar.gz
-# Source0-md5:	09fd160cdfc512f26442a7e91246598d
+# Source0-md5:	0944b12c936019fe12269c7a356d60d0
 URL:		http://scantailor.sourceforge.net/
 BuildRequires:	QtGui-devel
 BuildRequires:	QtXml-devel
