@@ -1,7 +1,7 @@
 Summary:	Post-processing tool for scanned pages
 Name:		scantailor
 Version:	0.9.9.2
-Release:	2
+Release:	3
 License:	GPL v3
 Group:		X11/Applications/Graphics
 Source0:	http://dl.sourceforge.net/scantailor/%{name}-%{version}.tar.gz
